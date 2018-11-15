@@ -1,4 +1,4 @@
-# control-system
+# controlSys
 A GUI for control system, MPC 
 
 example:
